@@ -1,1 +1,3 @@
-# Python-Blackjack-Application
+# Python Blackjack Application
+
+Through 
