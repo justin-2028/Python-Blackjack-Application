@@ -1,3 +1,3 @@
 # Python Blackjack Application
 
-Through 
+One of my first Python projects, this blackjack application will be sure to satisfy your gambling needs.
